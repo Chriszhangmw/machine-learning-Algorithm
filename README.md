@@ -48,7 +48,7 @@ News_extract
 	3.looking for the ner which is fit central word
 	4.extract the speaking sentence, use "。 ？ ！ "as the sentence splitting symbol 
 	5.use smooth inverse frequency (SIF) and PCA to handle the word vector, then calculate the similarity by Cosine
-![Image text](https://raw.github.com/Chriszhangmw/AI/master/news_extract/algorithm1.png)
+![Image text](https://raw.github.com/Chriszhangmw/machine-learning-and-demo/master/news_extract/algorithm1.png)
 
 
 
