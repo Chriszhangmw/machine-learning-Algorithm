@@ -49,7 +49,7 @@ News_extract
 	4.extract the speaking sentence, use "。 ？ ！ "as the sentence splitting symbol 
 	5.use smooth inverse frequency (SIF) and PCA to handle the word vector, then calculate the similarity by Cosine
 ![Image text](https://raw.github.com/Chriszhangmw/machine-learning-and-demo/master/news_extract/algorithm1.png)
-
-
+### results:
+![Image text](https://raw.github.com/Chriszhangmw/machine-learning-and-demo/master/news_extract/newsextractresults1.png)
 
 
