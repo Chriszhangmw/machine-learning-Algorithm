@@ -1,6 +1,6 @@
-AI recording
+Artificial Intelligence Notebook
 ===========================
-some project or demo for AI
+some artificial intelligence algorithm code and demo 
 
 ****
 	
