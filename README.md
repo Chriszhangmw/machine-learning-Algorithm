@@ -16,6 +16,7 @@ some project or demo for AI
 * [AutoSummarization](#AutoSummarization)
 * [News_extract](#News_extract)
 * [sentiment_analysis](#sentiment_analysis)
+* [decision_tree](#decision_tree)
 
 
 
@@ -66,3 +67,10 @@ sentiment_analysis
 ![](https://raw.github.com/Chriszhangmw/machine-learning-and-demo/master/sentiment_analysis/textCNN.png)
 2.GRU
 ![](https://raw.github.com/Chriszhangmw/machine-learning-and-demo/master/sentiment_analysis/gru.png)
+
+decision_tree
+------
+### usage:
+change the values of the categorical variables;For the categorical varibles, we need to create dummy variables. 
+### draw the tree:
+![4](https://raw.github.com/Chriszhangmw/machine-learning-and-demo/master/decision_tree/tree.png)
