@@ -38,7 +38,11 @@ dynamic_programming
 
 AutoSummarization
 ------
-### TextRank
+### algorithm:
+	1.sentence embedding with SIF, calculate the  whole text embedding and compared with each sentence, get importance by similarity
+	2.use windows=3 to skip the whole text and build the sentence graph
+### results:
+![Image text](https://raw.github.com/Chriszhangmw/machine-learning-and-demo/master/news_extract/newsextractresults1.png)
 
 News_extract
 ------
