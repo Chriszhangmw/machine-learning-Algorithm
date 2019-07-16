@@ -17,6 +17,7 @@ some project or demo for AI
 * [News_extract](#News_extract)
 * [sentiment_analysis](#sentiment_analysis)
 * [decision_tree](#decision_tree)
+* [LR_KNN_SVM](#LR_KNN_SVM)
 
 
 
@@ -74,3 +75,12 @@ decision_tree
 change the values of the categorical variables;For the categorical varibles, we need to create dummy variables. 
 ### draw the tree:
 ![4](https://raw.github.com/Chriszhangmw/machine-learning-and-demo/master/decision_tree/tree.png)
+
+LR_KNN_SVM
+------
+### introduction:
+	1.use the heart dataset to display the usage of logic regression，KNN and SVM algorithm by sklearn
+	2.how to use Grid Search CV to find the best parameters
+	3.how to do basic data analysis and data visualization(sample)
+
+
