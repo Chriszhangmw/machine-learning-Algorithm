@@ -15,7 +15,7 @@ some project or demo for AI
 * [dynamic_programming](#dynamic_programming)
 * [AutoSummarization](#AutoSummarization)
 * [News_extract](#News_extract)
-
+* [sentiment_analysis](#sentiment_analysis)
 
 
 
@@ -42,7 +42,10 @@ AutoSummarization
 	1.sentence embedding with SIF, calculate the  whole text embedding and compared with each sentence, get importance by similarity
 	2.use windows=3 to skip the whole text and build the sentence graph
 ### results:
-![Image text](https://raw.github.com/Chriszhangmw/machine-learning-and-demo/master/news_extract/newsextractresults1.png)
+before:
+![Image text](https://raw.github.com/Chriszhangmw/machine-learning-and-demo/master/AutoSummarization/result1.png)
+after:
+![Image text](https://raw.github.com/Chriszhangmw/machine-learning-and-demo/master/AutoSummarization/result2.png)
 
 News_extract
 ------
@@ -52,8 +55,12 @@ News_extract
 	3.looking for the ner which is fit central word
 	4.extract the speaking sentence, use "。 ？ ！ "as the sentence splitting symbol 
 	5.use smooth inverse frequency (SIF) and PCA to handle the word vector, then calculate the similarity by Cosine
-![Image text](https://raw.github.com/Chriszhangmw/machine-learning-and-demo/master/news_extract/algorithm1.png)
+![](https://raw.github.com/Chriszhangmw/machine-learning-and-demo/master/News_extract/algorithm1.png)
 ### results:
-![Image text](https://raw.github.com/Chriszhangmw/machine-learning-and-demo/master/news_extract/newsextractresults1.png)
+![](https://raw.github.com/Chriszhangmw/machine-learning-and-demo/master/News_extract/newsextractresults1.png)
 
-
+sentiment_analysis
+------
+### algorithm:
+	1.textCNN
+	2.GRU
