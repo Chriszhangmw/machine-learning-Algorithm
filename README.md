@@ -62,5 +62,7 @@ News_extract
 sentiment_analysis
 ------
 ### algorithm:
-	1.textCNN
-	2.GRU
+1.textCNN
+![](https://raw.github.com/Chriszhangmw/machine-learning-and-demo/master/sentiment_analysis/textCNN.png)
+2.GRU
+![](https://raw.github.com/Chriszhangmw/machine-learning-and-demo/master/sentiment_analysis/gru.png)
