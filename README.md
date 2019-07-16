@@ -15,7 +15,7 @@ some project or demo for AI
 * [dynamic_programming](#dynamic_programming)
 * [AutoSummarization](#AutoSummarization)
 * [News_extract](#News_extract)
-
+* [sentiment_analysis](#sentiment_analysis)
 
 
 
@@ -59,4 +59,8 @@ News_extract
 ### results:
 ![](https://raw.github.com/Chriszhangmw/machine-learning-and-demo/master/News_extract/newsextractresults1.png)
 
-
+sentiment_analysis
+------
+### algorithm:
+	1.textCNN
+	2.GRU
