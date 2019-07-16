@@ -82,5 +82,8 @@ LR_KNN_SVM
 	1.use the heart dataset to display the usage of logic regression，KNN and SVM algorithm by sklearn
 	2.how to use Grid Search CV to find the best parameters
 	3.how to do basic data analysis and data visualization(sample)
-
-
+### sample data visualization:
+![5](https://raw.github.com/Chriszhangmw/machine-learning-and-demo/master/LR_KNN_SVM/distribution1.png)
+![6](https://raw.github.com/Chriszhangmw/machine-learning-and-demo/master/LR_KNN_SVM/correlation.png)
+![7](https://raw.github.com/Chriszhangmw/machine-learning-and-demo/master/LR_KNN_SVM/box.png)
+![8](https://raw.github.com/Chriszhangmw/machine-learning-and-demo/master/LR_KNN_SVM/multi_dis.png)
