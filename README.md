@@ -12,7 +12,7 @@ some artificial intelligence algorithm code and demo
 ****
 ## content
 * [xgboost](#xgboost)
-* [dynamic_programming](#dynamic_programming)
+* [EM_algorithm](#EM_algorithm)
 * [AutoSummarization](#AutoSummarization)
 * [News_extract](#News_extract)
 * [sentiment_analysis](#sentiment_analysis)
@@ -34,9 +34,12 @@ xgboost
 ### Usage:
 	1.xgboost support two class API, one is the original, another is from sklearn
 	2.xgboost can solve classifiers and regression problem, the code in the git take the iris as classification example, and take Boston house price as regression example
-dynamic_programming
+EM_algorithm
 ------
-### used in IBM model 1
+### used in IBM model 1:
+![9](https://raw.github.com/Chriszhangmw/machine-learning-and-demo/master/EM_algorithm/lan1.png)
+![10](https://raw.github.com/Chriszhangmw/machine-learning-and-demo/master/EM_algorithm/lan2.png)
+![11](https://raw.github.com/Chriszhangmw/machine-learning-and-demo/master/EM_algorithm/ibmmodel1.png)
 
 AutoSummarization
 ------
