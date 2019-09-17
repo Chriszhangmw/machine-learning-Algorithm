@@ -18,6 +18,9 @@ some artificial intelligence algorithm code and demo
 * [sentiment_analysis](#sentiment_analysis)
 * [decision_tree](#decision_tree)
 * [LR_KNN_SVM](#LR_KNN_SVM)
+* [HMM](#HMM)
+* [CRF](#CRF)
+* [Skip_Gram](#Skip_Gram)
 
 
 
@@ -90,3 +93,23 @@ LR_KNN_SVM
 ![6](https://raw.github.com/Chriszhangmw/machine-learning-and-demo/master/LR_KNN_SVM/correlation.png)
 ![7](https://raw.github.com/Chriszhangmw/machine-learning-and-demo/master/LR_KNN_SVM/box.png)
 ![8](https://raw.github.com/Chriszhangmw/machine-learning-and-demo/master/LR_KNN_SVM/multi_dis.png)
+
+HMM
+------
+### introduction:
+
+CRF
+------
+### introduction:
+
+Skip_Gram
+------
+### training word2vector with skip-gram model,for example, the training text are :
+KTH Royal Institute of Technology is the largest and most respected technical university in Sweden—ranked top 100 in the 2020 QS World University Rankings. By choosing KTH, you gain access to a vibrant student life and a prestigious academic environment.
+### results of the vectors:
+![9](https://raw.github.com/Chriszhangmw/machine-learning-and-demo/master/Skip_Gram/skip1.png)
+
+
+
+
+
